@@ -11,7 +11,7 @@
 		"async": "~0.2.5",
 		"underscore": "~1.7.0",
 
-		"sgs-crypto": "git+ssh://git@github.com:Sagacify/sgs-crypto.git#1.0.0",
+		"sgs-crypto": "git+https://github.com/sagacify/sgs-crypto.git#1.0.0",
 
 		"passport-google-oauth": "~0.1.5",
 		"passport-http-bearer": "~1.0.1",
